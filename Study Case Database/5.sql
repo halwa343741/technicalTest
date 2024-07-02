@@ -1,0 +1,1 @@
+INSERT INTO teachers (`id`, `name`, `subject`) VALUES (2, 'Bu Dina', 'Bahasa Indonesia');
