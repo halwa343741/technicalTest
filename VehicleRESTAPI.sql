@@ -1,3 +1,4 @@
+/****** SQL Server ******/
 /****** Object:  Table [dbo].[pricelist]    Script Date: 03-Jul-24 17:18:39 ******/
 SET ANSI_NULLS ON
 GO
